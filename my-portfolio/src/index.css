@@ -11,3 +11,20 @@
         src: url(../public/assets/fonts/ALDRICH-REGULAR.TTF) format('ttf');
     }
 }
+
+
+::-webkit-scrollbar {
+    @apply w-1.5
+}
+
+::-webkit-scrollbar-thumb {
+    @apply bg-black dark:bg-white
+}
+
+::-webkit-scrollbar-track {
+    @apply bg-white dark:bg-black
+}
+
+* {
+    scroll-behavior: smooth;
+}
