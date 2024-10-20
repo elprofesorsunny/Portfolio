@@ -11,7 +11,7 @@ export default function Navbar() {
   };
 
   return (
-    <div className="fixed w-full p-2 z-10 flex justify-between items-center bg-transparent transition-colors duration-500">
+    <div className="fixed w-full p-2 z-10 flex justify-between items-center  bg-white dark:bg-black">
       {/* Hambergur Menu for Mobile Device */}
       <div className="md:hidden cursor-pointer py-2 px-4 text-black dark:text-white" onClick={() => setIsOpen(true)}>
         ☰
