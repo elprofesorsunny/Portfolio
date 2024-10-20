@@ -1,0 +1,99 @@
+[
+    {
+      "name": "Python",
+      "bgColor": "#3776AB",
+      "textColor": "#fff",
+      "image": "./assets/imgs/skills/python.svg"
+    },
+    {
+      "name": "HTML",
+      "bgColor": "#E34F26",
+      "textColor": "#fff",
+      "image": "./assets/imgs/skills/html.svg"
+    },
+    {
+      "name": "CSS",
+      "bgColor": "#1572B6",
+      "textColor": "#fff",
+      "image": "./assets/imgs/skills/css3.svg"
+    },
+    {
+      "name": "JavaScript",
+      "bgColor": "#F7DF1E",
+      "textColor": "#000",
+      "image": "./assets/imgs/skills/js.svg"
+    },
+    {
+      "name": "TypeScript",
+      "bgColor": "#3178C6",
+      "textColor": "#fff",
+      "image": "./assets/imgs/skills/typescript.svg"
+    },
+    {
+      "name": "Markdown",
+      "bgColor": "#000",
+      "textColor": "#fff",
+      "image": "./assets/imgs/skills/markdown.svg"
+    },
+    {
+      "name": "React",
+      "bgColor": "#282C34",
+      "textColor": "#fff",
+      "image": "./assets/imgs/skills/react.svg"
+    },
+    {
+      "name": "Sass",
+      "bgColor": "#CC6699",
+      "textColor": "#fff",
+      "image": "./assets/imgs/skills/sass.svg"
+    },
+    {
+      "name": "TailwindCSS",
+      "bgColor": "#1A202C",
+      "textColor": "#fff",
+      "image": "./assets/imgs/skills/tailwind-css.svg"
+    },
+    {
+      "name": "Bootstrap",
+      "bgColor": "#7952B3",
+      "textColor": "#fff",
+      "image": "./assets/imgs/skills/bootstrap.svg"
+    },
+    {
+      "name": "Vite",
+      "bgColor": "#646CFF",
+      "textColor": "#fff",
+      "image": "./assets/imgs/skills/vite.svg"
+    },
+    {
+      "name": "Prettier",
+      "bgColor": "#F7B93E",
+      "textColor": "#000",
+      "image": "./assets/imgs/skills/prettier.svg"
+    },
+    {
+      "name": "Git",
+      "bgColor": "#F05032",
+      "textColor": "#fff",
+      "image": "./assets/imgs/skills/git.svg"
+    },
+    {
+      "name": "VsCode",
+      "bgColor": "#007ACC",
+      "textColor": "#fff",
+      "image": "./assets/imgs/skills/visual-studio.svg"
+    },
+    {
+      "name": "Vercel",
+      "bgColor": "#fff",
+      "textColor": "#000",
+      "image": "./assets/imgs/skills/vercel.svg"
+    },
+    {
+      "name": "Supabase",
+      "bgColor": "#1C1C1C",
+      "textColor": "#fff",
+      "image": "./assets/imgs/skills/supabase.svg"
+    }
+  ]
+  

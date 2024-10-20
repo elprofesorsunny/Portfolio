@@ -1,0 +1,31 @@
+[
+    {
+      "name": "Project 1",
+      "description": "Some text for description project 1.",
+      "website": "https://amd-swap.vercel.app/",
+      "github": "https://github.com/Shara-Sh/amd-swap",
+      "skills": [
+        {"title":"HTML","rang":"#E34F26","matnrang":"#fff"},
+        {"title":"CSS","rang":"#1572B6","matnrang":"#fff"},
+        {"title":"Typescript","rang":"#3178C6","matnrang":"#fff"},
+        {"title":"JavaScript","rang":"#F7DF1E","matnrang":"#000"},
+        {"title":"React","rang":"#282C34","matnrang":"#fff"},
+        {"title":"Tailwind CSS","rang":"#1A202C","matnrang":"#fff"}
+      ]
+    },
+    {
+      "name": "Project 2",
+      "description": "Some text for description project 2.",
+      "website": "https://shahverdianstudio.vercel.app/",
+      "github": "https://github.com/Shara-Sh/shahverdian-studio",
+      "skills": [
+        {"title":"HTML","rang":"#E34F26","matnrang":"#fff"},
+        {"title":"CSS","rang":"#1572B6","matnrang":"#fff"},
+        {"title":"Typescript","rang":"#3178C6","matnrang":"#fff"},
+        {"title":"JavaScript","rang":"#F7DF1E","matnrang":"#000"},
+        {"title":"React","rang":"#282C34","matnrang":"#fff"},
+        {"title":"Tailwind CSS","rang":"#1A202C","matnrang":"#fff"}
+      ]
+    }
+  ]
+  
